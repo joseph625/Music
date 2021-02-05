@@ -1,4 +1,4 @@
-//If you press any key show the result 
+
 
 document.addEventListener('keydown', (event) => {
     let key = event.keyCode;
